@@ -1,0 +1,8 @@
+Tiny-Server is an iterative server that listens for connection requests on the port that is passed in the command line.
+
+This is from CS:APP 11.6 -- Putting It Toghter: The Tiny Web Server.
+
+support HTTP methods:
+- get 
+- post // TODO
+- head // TODO

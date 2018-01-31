@@ -1,0 +1,6 @@
+*.o
+tiny
+*.mp4
+/cgi-bin/*
+*.jpg
+*.html
